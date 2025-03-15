@@ -1,0 +1,1 @@
+web: java -jar balatroWiki-0.1.0.jar
